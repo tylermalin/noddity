@@ -3,14 +3,14 @@
   "version": "2.2.5",
   "main": "./index.js",
   "author": {
-    "name": "TehShrike",
-    "email": "me@JoshDuff.com",
-    "url": "http://joshduff.com"
+    "name": "Tyler Malin",
+    "email": "tylermalin@gmail.com",
+    "url": "http:/rxvintage.com"
   },
   "description": "A client-side cms with a flat-file backend",
   "repository": {
     "type": "git",
-    "url": "https://github.com/TehShrike/noddity.git"
+    "url": "https://github.com/tylermalin/noddity.git"
   },
   "directories": {
     "test": "test"
